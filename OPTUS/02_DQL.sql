@@ -1,0 +1,5 @@
+--DQL - SELECT
+
+SELECT * FROM Artista ORDER BY IdArtista ASC;
+SELECT * FROM Album ORDER BY IdAlbum ASC;
+SELECT * FROM Usuario ORDER BY Nome ASC;

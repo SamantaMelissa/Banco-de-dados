@@ -1,0 +1,6 @@
+--DQL
+
+SELECT * FROM Pets ORDER BY Nome ASC;
+
+SELECT * FROM Pets ORDER BY IdPets ASC;
+
